@@ -1,0 +1,14 @@
+{
+  "name": "token-usage-local",
+  "description": "Marketplace del mod token-usage: uso del plan y consumo global de tokens en Claude Code",
+  "owner": {
+    "name": "Sayoner-000",
+    "url": "https://github.com/Sayoner-000"
+  },
+  "plugins": [
+    {
+      "name": "token-usage",
+      "source": "./"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+# Tipos que Claude Code genera al cargar el mod
+.claude-plugin/types/
+tsconfig.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+*.tar.gz

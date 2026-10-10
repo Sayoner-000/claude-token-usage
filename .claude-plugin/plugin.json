@@ -1,0 +1,13 @@
+{
+  "name": "token-usage",
+  "version": "0.3.0",
+  "description": "Uso del plan (sesión y semana) con proyección, y consumo global de tokens de todos los proyectos: panel /tokens y línea de estado",
+  "author": {
+    "name": "Sayoner-000",
+    "url": "https://github.com/Sayoner-000"
+  },
+  "homepage": "https://github.com/Sayoner-000/claude-token-usage",
+  "repository": "https://github.com/Sayoner-000/claude-token-usage",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
